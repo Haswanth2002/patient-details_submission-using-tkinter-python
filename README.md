@@ -3,4 +3,5 @@ Graphical User Interface(GUI) is a form of user interface which allows users to 
 
 What is Tkinter?
 Tkinter is the inbuilt python module that is used to create GUI applications. It is one of the most commonly used modules for creating GUI applications in Python as it is simple and easy to work with. You don’t need to worry about the installation of the Tkinter module separately as it comes with Python already. It gives an object-oriented interface to the Tk GUI toolkit.
-![image](https://user-images.githubusercontent.com/78893155/139522881-1a845a6d-400a-40f6-97c7-b50ca3114eb1.png)
+![image](https://user-images.githubusercontent.com/78893155/139522916-46d4f56c-84e7-4886-a916-da682c1284a7.png)
+
